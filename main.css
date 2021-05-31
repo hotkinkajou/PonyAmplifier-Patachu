@@ -1,0 +1,16 @@
+#av
+{
+	width:540px;
+	height:540px;
+}
+
+#dbg
+{
+	display:none;
+}
+
+
+.pickerParent
+{
+	background: fixed;
+}
