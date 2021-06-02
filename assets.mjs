@@ -142,6 +142,86 @@ export const assets =
                         }
                     ]
             },
+            "beta": {
+                "displayName": "Beta",
+                "type": "composite",
+                "components":
+                    [
+                        {
+                            "url": "assets/mane/hair-beta-back.png",
+                            "layer": "mane-back",
+                            "color": "mane2"
+                        },
+                        {
+                            "url": "assets/mane/hair-beta-side.png",
+                            "layer": "mane-side"
+                        },
+                        {
+                            "url": "assets/mane/hair-beta-top.png",
+                            "layer": "mane-top"
+                        }
+                    ]
+            },
+            "spiky": {
+                "displayName": "Spiky",
+                "type": "composite",
+                "components":
+                    [
+                        {
+                            "url": "assets/mane/hair-spiky-back.png",
+                            "layer": "mane-back",
+                            "color": "mane2"
+                        },
+                        {
+                            "url": "assets/mane/hair-spiky-side.png",
+                            "layer": "mane-side"
+                        },
+                        {
+                            "url": "assets/mane/hair-spiky-top.png",
+                            "layer": "mane-top"
+                        }
+                    ]
+            },
+            "wavy": {
+                "displayName": "Wavy",
+                "type": "composite",
+                "components":
+                    [
+                        {
+                            "url": "assets/mane/hair-wavy-back.png",
+                            "layer": "mane-back",
+                            "color": "mane2"
+                        },
+                        {
+                            "url": "assets/mane/hair-wavy-side.png",
+                            "layer": "mane-side"
+                        },
+                        {
+                            "url": "assets/mane/hair-wavy-top.png",
+                            "layer": "mane-top"
+                        }
+                    ]
+            },
+            "cowlick": {
+                "displayName": "Cowlick",
+                "type": "composite",
+                "components":
+                    [
+                        {
+                            "url": "assets/mane/hair-cowlick-back.png",
+                            "layer": "mane-back",
+                            "color": "mane2"
+                        },
+                        {
+                            "url": "assets/mane/hair-cowlick-side.png",
+                            "layer": "mane-side"
+                        },
+                        {
+                            "url": "assets/mane/hair-cowlick-top.png",
+                            "layer": "mane-top"
+                        }
+                    ]
+            },
         }
     },
     "flag": {
